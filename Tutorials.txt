@@ -1,0 +1,252 @@
+﻿Unit 1
+Lesson 1: Integers, Equations, and Inequalities
+Tutorial 1.1: Expressions and Variables
+A variable is a letter to represent one or more numbers.
+A numerical expression is a sequence of numbers and operations.
+A variable expression is a sequence of numbers, variables and operations. 
+To evaluate a variable expression, replace a number for each variable, thus created a numerical expression. Now solve for a solution of the expression.
+A verbal model translates the mathematical expressions to words.
+Operations
+	Common Words/Phrases
+	Addition
+	plus, the sum of
+	Subtraction
+	minus, the difference of
+	Multiplication
+	times, multiplied by
+	Division
+	divided by
+	Tutorial 1.2: Powers and Exponents
+A power is repeated multiplication of the same number. It has two parts: the base and the exponent. 
+The base is the number to be multiplied.
+The exponent is the number of times the base number is repeated. 
+Tutorial 1.3: Order of Operations
+Order of operations is the order in which an expression is evaluated (PEMDAS). 
+1. Evaluate inner grouping symbols → () [] {}
+2. Evaluate powers → 
+3. Evaluate multiplication and division from left to right
+4. Evaluate addition and subtraction from left to right
+Tutorial 1.4: Comparing and Ordering Integers
+Integers are a set of numbers without a decimal point.
+Positive integers are a subset of integers that are greater than 0.
+Negative integers are a subset of integers that are less than 0.
+The absolute value of a number is the distance from 0. This number would always be a positive integer or 0. 
+Opposites numbers occur when two numbers have the same absolute value but different signs (+ -).
+Tutorial 1.5: Adding Integers & Tutorial 1.6: Subtracting Integers
+Adding integers is combining the absolute value of any two numbers to the left if the second number has a negative sign or to the right if the second number has a positive sign.
+Subtracting integers is the same as adding integers of different sign.
+Subtraction is a way to evaluate the change of a quantity.
+
+
+Observation
+	Process
+	Example
+	Same Sign
+	Combine the absolute values of the number (unit)  and use the same sign
+	
+
+	Different Sign
+	Remove the absolute value of the unit of the lesser value from the greater value.
+	
+
+	Opposites
+(additive inverse)
+	The sum of the numbers is 0.
+	
+
+	  Tutorial 1.7: Multiplying and Dividing Integers
+
+
+Observation
+	Process
+	Example
+	Same Sign
+	The product of any two integers with the same sign is positive.
+	
+
+	Different Sign
+	The product of any two integers with the same sign is negative.
+	
+
+	0
+	The product of 0 and any integer is 0.
+	
+
+	
+
+Chapter 2: Solving Equations
+Tutorial 2.1: Properties and Operations
+Commutative Property: The order of the numbers does not matter.
+
+
+Commutative Property
+	Example
+	Commutative Property of Addition
+	
+
+	Commutative Property of Multiplication
+	
+
+	
+
+Associative Property: The grouping of the numbers does not matter.
+
+
+Commutative Property
+	Example
+	Associative Property of Addition
+	
+
+	Associative Property of Multiplication
+	
+
+	
+
+
+
+Tutorial 2.2: The Distributive Property
+Equivalent numerical expressions are expressions that have the same value.
+Equivalent variable expressions are expressions that have the same value for all values of the variable.
+
+
+Distributive Property 
+	
+
+
+
+	
+
+Tutorial 2.3: Simplifying Variable Expressions
+Terms are the components of an expression that are added together. 
+The coefficient is the number directly in front of a variable. 
+A constant term does not have a variable attached to it.
+Like terms have identical variable parts
+Equation:
+	
+	Terms:
+	
+	Coefficients:
+	
+	Constant Terms:
+	
+	Like Terms:
+	
+
+	. 
+Tutorial 2.4: Variables and Equations & Tutorial 2.5: Solving Equations Using Addition or Subtraction & Tutorial 2.6: Solving Equations Using Multiplication or Division 
+An equation uses an equal sign to state two expressions are equal.
+A solution of an equation is the number that the variable represents to make the equation true.
+Solving the equation is to find the solution of a given equation.
+Inverse operations are any two operations that undo each other.
+   * Addition and subtraction are inverses of each other
+   * Multiplication and division are inverses of each other
+Equivalent equations are equations with the same solution.
+
+
+Property
+	Practice
+	Subtraction Property of Equality
+	
+
+
+	Addition Property of Equality
+	
+
+
+	Division Property of Equality
+	
+
+
+	Multiplication Property of Equality
+	
+
+
+	Chapter 3: Multi-Step Equations and Inequalities
+Tutorial 3.1: Solving Two-Step Equations
+Using inverse operations to solve for a variable.
+
+
+Example
+	
+
+
+
+
+	
+
+Tutorial 3.2: Solving Equations Having Like Terms and Parentheses
+Combine like terms and use the Distributive Property to simplify the equation before solving it. 
+
+
+Example
+	
+
+
+
+
+
+	
+
+Tutorial 3.3: Solving Equations with Variables on Both Sides
+The goal is to move terms with variables on one side to solve the equation. 
+
+
+Example
+	
+
+
+
+	
+
+Tutorial 3.4: Solving Inequalities Using Addition or Subtraction                 
+An inequality uses inequality symbol instead of an equal sign.
+The solution of an inequality is a set of all numbers that make the statement true.
+
+
+Sign
+	Word
+	
+	Less than
+	
+	Less than or equal to
+	
+	Greater than
+	
+	Greater than or equal to
+	Solve the inequality similar to solving an equation.
+
+
+Addition and Subtraction Properties of Inequality
+	
+
+	Adding or subtracting the same number on each side of an inequality produces an equivalent inequality.
+
+
+	
+
+or
+
+	Tutorial 3.5: Solving Inequalities Using Multiplication or Division
+
+
+Addition and Subtraction Properties of Inequality
+	
+
+	Adding or subtracting the same number on each side of an inequality produces an equivalent inequality.
+
+
+	
+
+or
+
+	
+
+Addition and Subtraction Properties of Inequality
+	
+
+	Adding or subtracting the same number on each side of an inequality produces an equivalent inequality.
+
+
+	
+
+or
