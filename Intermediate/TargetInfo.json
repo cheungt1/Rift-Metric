@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RiftMedics",
+			"Path": "/Users/zilongyang/Documents/Unreal Projects/RiftMedics/Source/RiftMedics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RiftMedicsEditor",
+			"Path": "/Users/zilongyang/Documents/Unreal Projects/RiftMedics/Source/RiftMedicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
