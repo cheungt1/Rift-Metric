@@ -1,0 +1,41 @@
+﻿,Chapter,Section,Tutorial,Title,Content
+1,1,1,1,"Tutorial 1.1: Expressions and Variables
+","A variable is a letter to represent one or more numbers.
+A variable expression is a sequence of numbers, variables and operations. 
+To evaluate a variable expression, replace a number for each variable, thus created a numerical expression. Now solve for a solution of the expression.
+A verbal model translates the mathematical expressions to words.
+Common Words/Phrases:
+	Addition: plus, the sum of
+	Subtraction: minus, the difference of
+	Multiplication: times, multiplied by
+	Division: divided by"
+2,1,1,2,Tutorial 1.2: Powers and Exponents,"A power is repeated multiplication of the same number. It has two parts: the base and the exponent.
+The base is the number to be multiplied.
+The exponent is the number of times the base number is repeated. "
+3,1,1,3,Tutorial 1.3: Order of Operations,"Order of operations is the order in which an expression is evaluated (PEMDAS). 
+1. Evaluate inner grouping symbols → () [] {}
+2. Evaluate powers
+3. Evaluate multiplication and division from left to right
+4. Evaluate addition and subtraction from left to right"
+4,1,1,4,Tutorial 1.4: Comparing and Ordering Integers,"Integers are a set of numbers without a decimal point.
+Positive integers are a subset of integers that are greater than 0.
+Negative integers are a subset of integers that are less than 0.
+The absolute value of a number is the distance from 0. This number would always be a positive integer or 0. 
+Opposites numbers occur when two numbers have the same absolute value but different signs (+ -)."
+5,1,1,5, Tutorial 1.5: Adding Integers & Subtracting Integers ,"Adding integers is combining the absolute value of any two numbers to the left if the second number has a negative sign or to the right if the second number has a positive sign.
+Subtracting integers is the same as adding integers of different sign.
+Subtraction is a way to evaluate the change of a quantity.
+
+Properties of Addition:
+Same Sign: Combine the absolute values of the number (unit)  and use the same sign.
+
+Different Sign: Remove the absolute value of the unit of the lesser value from the greater value.
+
+Opposites (Additive Inverse): The sum of the numbers is 0."
+6,1,1,6,Tutorial 1.6: Multiplying and Dividing Integers,"Properties of Multiplication and Division:
+
+Same Sign: The product/quotient of any two integers with the same sign is positive.
+
+Different Sign: The product/quotient of any two integers with the same sign is negative.
+
+0: The product of 0 and any integer is 0."

@@ -1,13 +1,12 @@
-﻿Unit 1
+Unit 1
 Lesson 1: Integers, Equations, and Inequalities
 Tutorial 1.1: Expressions and Variables
 A variable is a letter to represent one or more numbers.
-A numerical expression is a sequence of numbers and operations.
 A variable expression is a sequence of numbers, variables and operations. 
 To evaluate a variable expression, replace a number for each variable, thus created a numerical expression. Now solve for a solution of the expression.
 A verbal model translates the mathematical expressions to words.
 Operations
-	Common Words/Phrases
+Common Words/Phrases
 	Addition
 	plus, the sum of
 	Subtraction
@@ -16,7 +15,7 @@ Operations
 	times, multiplied by
 	Division
 	divided by
-	Tutorial 1.2: Powers and Exponents
+Tutorial 1.2: Powers and Exponents
 A power is repeated multiplication of the same number. It has two parts: the base and the exponent. 
 The base is the number to be multiplied.
 The exponent is the number of times the base number is repeated. 
@@ -54,7 +53,7 @@ Observation
 	The sum of the numbers is 0.
 	
 
-	  Tutorial 1.6: Multiplying and Dividing Integers
+Tutorial 1.6: Multiplying and Dividing Integers
 
 
 Observation
