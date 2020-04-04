@@ -1,0 +1,1218 @@
+﻿Log file open, 04/02/20 11:44:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Rift
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.090559
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=xReminiscence -epicuserid=41b66ee9a71945d28888a0281797e703 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.02-15.44.41:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.02-15.44.41:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.02-15.44.41:458][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.02-15.44.41:461][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-15.44.41:461][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-15.44.41:462][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.02-15.44.41:463][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.02-15.44.41:463][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-15.44.41:463][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.02-15.44.41:466][  0]LogHAL: Display: Platform has ~ 16 GB [17078124544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.02-15.44.41:466][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.02-15.44.41:466][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-15.44.41:466][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.02-15.44.41:467][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.02-15.44.41:467][  0]LogInit: Computer: WIT45001318
+[2020.04.02-15.44.41:467][  0]LogInit: User: cheungt1
+[2020.04.02-15.44.41:467][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.02-15.44.41:467][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.02-15.44.41:467][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.02-15.44.41:468][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.02-15.44.41:468][  0]LogMemory: Process Physical Memory: 105.32 MB used, 105.32 MB peak
+[2020.04.02-15.44.41:468][  0]LogMemory: Process Virtual Memory: 101.61 MB used, 101.61 MB peak
+[2020.04.02-15.44.41:468][  0]LogMemory: Physical Memory: 8587.85 MB used,  7699.12 MB free, 16286.97 MB total
+[2020.04.02-15.44.41:468][  0]LogMemory: Virtual Memory: 5159.32 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.04.02-15.44.41:470][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.02-15.44.41:491][  0]LogInit: Using OS detected language (en-US).
+[2020.04.02-15.44.41:491][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.02-15.44.41:492][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.02-15.44.41:687][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.02-15.44.41:732][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.02-15.44.41:732][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.02-15.44.41:961][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-15.44.41:961][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.02-15.44.41:961][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.02-15.44.41:961][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.02-15.44.42:028][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2020.04.02-15.44.42:028][  0]LogD3D11RHI:       8089/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.02-15.44.42:046][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.02-15.44.42:046][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.02-15.44.42:050][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.02-15.44.42:050][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.02-15.44.42:050][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.02-15.44.42:111][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.02-15.44.42:111][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.02-15.44.42:111][  0]LogWindows: EnumDisplayDevices:
+[2020.04.02-15.44.42:111][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.02-15.44.42:112][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.02-15.44.42:112][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.02-15.44.42:112][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.02-15.44.42:113][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.02-15.44.42:113][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.02-15.44.42:114][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.02-15.44.42:115][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.02-15.44.42:115][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2020.04.02-15.44.42:115][  0]LogD3D11RHI:   Driver Version: 389.04 (internal:23.21.13.8904, unified:389.04)
+[2020.04.02-15.44.42:115][  0]LogD3D11RHI:      Driver Date: 2-22-2018
+[2020.04.02-15.44.42:115][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2020.04.02-15.44.42:182][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.02-15.44.42:182][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.02-15.44.42:197][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.02-15.44.42:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.02-15.44.42:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.02-15.44.42:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.02-15.44.42:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.02-15.44.42:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.02-15.44.42:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.02-15.44.42:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.02-15.44.42:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.02-15.44.42:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.02-15.44.42:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.02-15.44.42:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.02-15.44.42:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.02-15.44.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.02-15.44.42:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.02-15.44.42:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.02-15.44.42:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.02-15.44.42:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.02-15.44.42:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.02-15.44.42:900][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.02-15.44.42:905][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.02-15.44.42:947][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Intermediate/Shaders/WorkingDirectory/39916/).
+[2020.04.02-15.44.42:947][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cheungt1/AppData/Local/Temp/UnrealShaderWorkingDir/42C6C4074DA5987CD8D00CBD183B2E7A/'.
+[2020.04.02-15.44.42:948][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.02-15.44.42:948][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.02-15.44.42:948][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.02-15.44.43:870][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.02-15.44.43:954][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/cheungt1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.02-15.44.43:954][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cheungt1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.02-15.44.43:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.02-15.44.43:954][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.02-15.44.43:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-15.44.43:954][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.02-15.44.43:973][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.02-15.44.43:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-15.44.43:974][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.02-15.44.43:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cheungt1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.02-15.44.43:975][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.02-15.44.43:975][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.02-15.44.44:009][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.02-15.44.44:012][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.02-15.44.44:013][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.02-15.44.44:125][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2020.04.02-15.44.44:565][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-15.44.44:771][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.02-15.44.44:771][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.02-15.44.44:771][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.02-15.44.44:771][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.02-15.44.44:771][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.02-15.44.44:792][  0]LogNetVersion: Rift 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 255957800)
+[2020.04.02-15.44.46:196][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044296 seconds
+[2020.04.02-15.44.46:206][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.02-15.44.46:206][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.02-15.44.46:206][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.02-15.44.46:657][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.02-15.44.46:660][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-15.44.46:714][  0]SourceControl: Source control is disabled
+[2020.04.02-15.44.46:715][  0]SourceControl: Source control is disabled
+[2020.04.02-15.44.46:716][  0]SourceControl: Source control is disabled
+[2020.04.02-15.44.46:717][  0]SourceControl: Source control is disabled
+[2020.04.02-15.44.46:718][  0]SourceControl: Source control is disabled
+[2020.04.02-15.44.46:816][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.02-15.44.46:826][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.02-15.44.46:827][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.02-15.44.46:922][  0]LogOcInput: OculusInput pre-init called
+[2020.04.02-15.44.46:932][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.02-15.44.46:932][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.02-15.44.47:012][  0]LogEngine: Initializing Engine...
+[2020.04.02-15.44.47:013][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-15.44.47:014][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.02-15.44.47:397][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.02-15.44.47:403][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.02-15.44.47:485][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.02-15.44.47:485][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.02-15.44.47:485][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.02-15.44.47:485][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.02-15.44.47:485][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.02-15.44.47:485][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.02-15.44.47:485][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.02-15.44.47:485][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.02-15.44.47:486][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.02-15.44.47:486][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-15.44.47:518][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.02-15.44.47:564][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.02-15.44.47:571][  0]LogInit: FAudioDevice initialized.
+[2020.04.02-15.44.47:572][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.02-15.44.47:624][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/cheungt1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.02-15.44.47:625][  0]LogInit: Texture streaming: Enabled
+[2020.04.02-15.44.47:637][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.02-15.44.47:637][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.02-15.44.47:647][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.02-15.44.47:727][  0]LogInit: Transaction tracking system initialized
+[2020.04.02-15.44.47:738][  0]BlueprintLog: New page: Editor Load
+[2020.04.02-15.44.47:779][  0]LocalizationService: Localization service is disabled
+[2020.04.02-15.44.48:155][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Content/' took 0.01s
+[2020.04.02-15.44.48:155][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.02-15.44.48:155][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.02-15.44.49:051][  0]SourceControl: Source control is disabled
+[2020.04.02-15.44.49:051][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-15.44.49:051][  0]LightingResults: New page: Lighting Build
+[2020.04.02-15.44.49:052][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.44.49:052][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.44.49:052][  0]MapCheck: New page: Map Check
+[2020.04.02-15.44.49:052][  0]LightingResults: New page: Lighting Build
+[2020.04.02-15.44.49:091][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.04.02-15.44.49:345][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.04.02-15.44.49:350][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-15.44.49:391][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.02-15.44.49:392][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-15.44.49:392][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2020.04.02-15.44.49:392][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.341
+[2020.04.02-15.44.49:526][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-15.44.49:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-15.44.49:540][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-15.44.49:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-15.44.49:556][  0]LogCollectionManager: Loaded 0 collections in 0.001842 seconds
+[2020.04.02-15.44.49:567][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Collections/' took 0.00s
+[2020.04.02-15.44.49:567][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Developers/cheungt1/Collections/' took 0.00s
+[2020.04.02-15.44.49:567][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Collections/' took 0.00s
+[2020.04.02-15.44.49:567][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3015 classes and 717 folders.
+[2020.04.02-15.44.49:570][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.02-15.44.49:624][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.02-15.44.49:626][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.02-15.44.49:679][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.02-15.44.49:681][  0]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.02-15.44.49:687][  0]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.02-15.44.49:793][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-15.44.49:969][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.02-15.44.49:970][  0]LogLoad: (Engine Initialization) Total time: 10.06 seconds
+[2020.04.02-15.44.49:970][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.02-15.44.50:040][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.02-15.44.50:063][  0]LogContentBrowser: Verbose: The majority of assets in the view are of type: DataTable
+[2020.04.02-15.44.50:070][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Content/' took 0.08s
+[2020.04.02-15.44.50:095][  1]LogAssetRegistry: Asset discovery search completed in 5.9719 seconds
+[2020.04.02-15.44.50:100][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2020.04.02-15.45.03:518][196]LogSlate: Took 0.000604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-15.45.03:554][196]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 ../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Exercises - Sheet1.csv)
+[2020.04.02-15.45.37:799][196]LogSlate: Window 'DataTable Options' being destroyed
+[2020.04.02-15.45.43:663][449]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 ../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Exercises - Sheet1.csv)
+[2020.04.02-15.45.49:238][449]LogSlate: Window 'DataTable Options' being destroyed
+[2020.04.02-15.45.49:260][449]LogCSVImportFactory: Imported DataTable 'Exercises_-_Sheet1' - 6 Problems
+[2020.04.02-15.45.49:260][449]LogCSVImportFactory: 0:Cannot find Property for column 'x' in struct 'ProblemStruct'.
+[2020.04.02-15.45.49:260][449]LogCSVImportFactory: 1:Expected column 'ExerciseID' not found in input.
+[2020.04.02-15.45.49:260][449]LogCSVImportFactory: 2:Expected column 'Chapter' not found in input.
+[2020.04.02-15.45.49:260][449]LogCSVImportFactory: 3:Expected column 'Section' not found in input.
+[2020.04.02-15.45.49:260][449]LogCSVImportFactory: 4:Expected column 'Question' not found in input.
+[2020.04.02-15.45.49:260][449]LogCSVImportFactory: 5:Expected column 'Answer' not found in input.
+[2020.04.02-15.45.56:655][449]LogSlate: Window 'Message' being destroyed
+[2020.04.02-15.47.33:924][696]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Database/NewUserDefinedStruct.NewUserDefinedStruct
+[2020.04.02-15.47.47:693][514]LogSlate: Window 'NewUserDefinedStruct' being destroyed
+[2020.04.02-15.47.49:468][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.04.02-15.47.50:737][616]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.02-15.47.50:851][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.04.02-15.47.52:637][719]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Database/ProblemStruct.ProblemStruct
+[2020.04.02-15.48.01:073][218]LogSlate: Window 'ProblemStruct' being destroyed
+[2020.04.02-15.48.01:086][218]LogSlate: Window 'ProblemStruct' being destroyed
+[2020.04.02-15.48.17:146][ 28]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.02-15.51.24:864][942]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.02-15.51.35:818][596]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.02-15.51.50:606][480]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.02-15.51.54:668][713]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgebraMenu.AlgebraMenu
+[2020.04.02-15.51.54:872][713]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.02-15.51.56:037][713]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.02-15.52.01:693][ 49]LogSlate: Window 'AlgebraMenu' being destroyed
+[2020.04.02-15.52.01:708][ 49]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.52.01:708][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.52.01:717][ 49]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.52.01:717][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.52.09:104][478]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.02-15.52.09:841][478]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.737 s
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: 
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: Found circular redirect from /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgebraMenu.AlgebraMenu to /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgebraMenu.AlgebraMenu! Returning None instead
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: Stack: 
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96ca67b80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c6d0c54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c99e2d6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c9b4e49 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c7048c7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96916ce42 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c9ac483 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c8ae359 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:841][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c77c25c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c95f3d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c95f913 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c77e155 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c77c37a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c95f3d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c8fe6ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c95f913 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c77e155 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c8fed54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c8fd18a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c8fcd12 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff962c87b65 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff962c8762c UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff95064ab3f UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c9414f9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c963428 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c949bfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff961404125 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff961404a5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96143f909 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96143c0fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff961c01892 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96177bebe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96177a8ba UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96178eea6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff9502eac52 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff95029de63 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff950300eb0 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff959bf01fb UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff959cab984 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff959ca67ff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff959cb0ac2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff959bb7f30 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff959bb80de UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c2125f2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c218430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c1f1b84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c281498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c299281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c219b95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c0f323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c179175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c16413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff96c158f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff993a54ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff993a4242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff993a57195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff993a3ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff9c0b35c0d USER32.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff9c0b35602 USER32.dll!UnknownFunction []
+[2020.04.02-15.52.09:842][478]LogOutputDevice: Error: [Callstack] 0x00007ff993a58699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: [Callstack] 0x00007ff6111d6db0 UE4Editor.exe!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: [Callstack] 0x00007ff6111ec3ec UE4Editor.exe!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: [Callstack] 0x00007ff6111ec4ca UE4Editor.exe!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: [Callstack] 0x00007ff6111fceae UE4Editor.exe!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: [Callstack] 0x00007ff6111ffcbe UE4Editor.exe!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: [Callstack] 0x00007ff9c1597bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: [Callstack] 0x00007ff9c1b2ced1 ntdll.dll!UnknownFunction []
+[2020.04.02-15.52.09:843][478]LogOutputDevice: Error: 
+[2020.04.02-15.52.09:848][478]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.02-15.52.12:040][478]LogStats:                    SendNewReport -  2.193 s
+[2020.04.02-15.52.12:040][478]LogStats:             FDebug::EnsureFailed -  2.936 s
+[2020.04.02-15.52.12:056][478]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgebraMenuE405659F4896006E8B0113B06E22D7E0.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Algebra/AlgebraLessons/AlgebraLesson1/AlgebraMenu.uasset'
+[2020.04.02-15.52.12:389][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.04.02-15.52.12:460][478]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson1820B73434675DDA415B48EBE6E535862.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Algebra/AlgebraLessons/AlgebraLesson1/AlgLesson1.uasset'
+[2020.04.02-15.52.12:482][478]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/SubjectMenu59CD82014C6B2F47B248DD853DE3713E.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Algebra/AlgebraLessons/AlgebraLesson1/SubjectMenu.uasset'
+[2020.04.02-15.52.12:538][478]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.02-15.52.12:538][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgebraMenu.AlgebraMenu
+[2020.04.02-15.52.12:538][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgLesson1.AlgLesson1
+[2020.04.02-15.52.12:538][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/SubjectMenu.SubjectMenu
+[2020.04.02-15.52.12:558][478]LogTemp: Resetting audio stream to device id 
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: Channel Order:
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-15.52.12:595][478]LogAudioMixer: Display: 1: FrontRight
+[2020.04.02-15.52.13:394][521]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.02-15.52.15:187][628]LogContentBrowser: Verbose: The majority of assets in the view are of type: UserDefinedStruct
+[2020.04.02-15.52.17:154][746]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.02-15.52.18:720][840]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.02-15.52.23:369][113]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgebraMenu.AlgebraMenu
+[2020.04.02-15.52.25:306][198]LogSlate: Window 'AlgebraMenu' being destroyed
+[2020.04.02-15.52.25:320][198]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.52.25:320][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.52.25:325][198]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.52.25:325][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.52.46:827][470]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.02-15.52.50:020][661]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.02-15.53.10:968][898]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgebraMenu.AlgebraMenu
+[2020.04.02-15.53.13:877][ 44]LogSlate: Window 'AlgebraMenu' being destroyed
+[2020.04.02-15.53.13:893][ 44]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.53.13:894][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.53.13:898][ 44]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-15.53.13:898][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-15.53.53:357][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.04.02-15.53.56:974][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.04.02-15.53.58:324][598]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.02-15.53.58:463][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.02-15.54.50:576][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.02-15.54.50:577][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2020.04.02-15.54.50:578][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Database/Exercises_-_Sheet1] ([1] browsable assets)...
+[2020.04.02-15.54.50:578][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Database/Exercises_-_Sheet1]
+[2020.04.02-15.54.50:580][287]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Exercises_-_Sheet1_Auto1E97D32B8417AFF8DB2D6C2840D03D632.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Autosaves/Game/Database/Exercises_-_Sheet1_Auto1.uasset'
+[2020.04.02-15.54.50:582][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Database/NewUserDefinedStruct] ([1] browsable assets)...
+[2020.04.02-15.54.50:582][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Database/NewUserDefinedStruct]
+[2020.04.02-15.54.50:585][287]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/NewUserDefinedStruct_Auto142BD7F544912D39FD93A92A361A91ABC.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Autosaves/Game/Database/NewUserDefinedStruct_Auto1.uasset'
+[2020.04.02-15.54.50:587][287]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.04.02-15.55.25:795][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.02-15.55.33:386][846]LogSlate: Window 'Save Content' being destroyed
+[2020.04.02-15.55.33:421][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Database/Exercises_-_Sheet1" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Database/Exercises_-_Sheet1.uasset" SILENT=true
+[2020.04.02-15.55.33:424][846]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Exercises_-_Sheet15A145FDE481B71F7EA8744B710A08B77.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Database/Exercises_-_Sheet1.uasset'
+[2020.04.02-15.55.33:428][846]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/NewUserDefinedStruct617E02D849BB999529DF04953B462523.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Database/NewUserDefinedStruct.uasset'
+[2020.04.02-15.55.33:578][846]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.02-15.55.33:578][846]LogContentValidation: Display: Validating DataTable /Game/Database/Exercises_-_Sheet1.Exercises_-_Sheet1
+[2020.04.02-15.55.33:578][846]LogContentValidation: Display: Validating UserDefinedStruct /Game/Database/NewUserDefinedStruct.NewUserDefinedStruct
+[2020.04.02-15.55.45:227][543]LogSlate: Window 'Advanced Copy Asset Report' being destroyed
+[2020.04.02-20.52.17:764][962]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a5d97a71-17f5-4808-bc37-1d1882a935fc}.
+[2020.04.02-20.52.17:764][962]LogTemp: Resetting audio stream to device id 
+[2020.04.02-20.52.17:817][962]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-20.52.17:817][962]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.02-20.52.17:817][962]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-20.52.17:817][962]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-20.52.17:817][962]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-20.52.17:817][962]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-20.52.17:817][962]LogAudioMixer: Display: Channel Order:
+[2020.04.02-20.52.17:818][962]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-20.52.17:818][962]LogAudioMixer: Display: 1: FrontRight
+[2020.04.02-20.52.33:736][ 10]LogTemp: Resetting audio stream to device id 
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: Channel Order:
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-20.52.33:754][ 10]LogAudioMixer: Display: 1: FrontRight
+[2020.04.02-23.52.34:071][ 12]LogTemp: Resetting audio stream to device id 
+[2020.04.02-23.52.34:321][ 12]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-23.52.34:321][ 12]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.02-23.52.34:321][ 12]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-23.52.34:321][ 12]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-23.52.34:321][ 12]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-23.52.34:321][ 12]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-23.52.34:322][ 12]LogAudioMixer: Display: Channel Order:
+[2020.04.02-23.52.34:322][ 12]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-23.52.34:322][ 12]LogAudioMixer: Display: 1: FrontRight
+[2020.04.02-23.52.35:501][ 13]LogTemp: Resetting audio stream to device id 
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: Channel Order:
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-23.52.35:563][ 13]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-16.09.11:871][ 22]LogTemp: Resetting audio stream to device id 
+[2020.04.03-16.09.12:288][ 22]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-16.09.12:288][ 22]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.03-16.09.12:288][ 22]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-16.09.12:288][ 22]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-16.09.12:288][ 22]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-16.09.12:289][ 22]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-16.09.12:289][ 22]LogAudioMixer: Display: Channel Order:
+[2020.04.03-16.09.12:289][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-16.09.12:289][ 22]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-16.09.12:609][ 24]LogHttp: Warning: 000001468F300540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82C712CA-4D99-C00E-6973-FE8A4575B36F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=384080f346e7ddc59b3b58b36c4e7896%7C41b66ee9a71945d28888a0281797e703%7C8eb585da-01c6-4ed1-8f43-5396e05adb89&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.03-16.09.12:609][ 24]LogHttp: Warning: 000001468F300540: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.03-16.09.12:609][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1464ed57f70 [can pipeline])
+[2020.04.03-16.09.12:609][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 1 (Re-using existing connection! (#120) with host datarouter.ol.epicgames.com)
+[2020.04.03-16.09.12:609][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.13.19) port 443 (#120))
+[2020.04.03-16.09.12:610][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.03-16.09.12:610][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.03-16.09.12:610][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.03-16.09.12:610][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.03-16.09.12:610][ 24]LogHttp: Warning: 000001468F300540: libcurl info message cache 7 (Closing connection 120)
+[2020.04.03-16.09.12:610][ 24]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82C712CA-4D99-C00E-6973-FE8A4575B36F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=384080f346e7ddc59b3b58b36c4e7896%7C41b66ee9a71945d28888a0281797e703%7C8eb585da-01c6-4ed1-8f43-5396e05adb89&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.03-16.09.14:671][ 28]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{66ef81c4-baca-4da2-bcc2-6ea4dddc416b}.
+[2020.04.03-16.09.14:671][ 28]LogTemp: Resetting audio stream to device id 
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: Channel Order:
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-16.09.14:859][ 28]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.15.54:820][219]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.15.54:838][219]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.15.54:881][219]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.15.55:822][222]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.15.55:837][222]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.15.55:837][222]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.15.55:837][222]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.15.55:838][222]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.15.55:838][222]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.15.55:838][222]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.15.55:838][222]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.15.55:838][222]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.15.55:838][222]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.15.55:866][222]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.15.56:834][225]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.15.56:851][225]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.15.56:878][225]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.15.57:840][228]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.15.57:860][228]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.08:903][261]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.08:920][261]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.08:957][261]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.09:915][264]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.09:929][264]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.09:930][264]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.09:957][264]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.10:916][267]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.10:931][267]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.10:959][267]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.11:917][270]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.11:932][270]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.11:960][270]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.12:917][273]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.12:932][273]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.12:959][273]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.13:919][276]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.13:934][276]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.13:961][276]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.14:923][279]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.14:938][279]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.14:966][279]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.15:928][282]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.15:943][282]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.15:971][282]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.16:942][285]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.16:958][285]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.16:986][285]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.17:949][288]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.17:963][288]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.17:964][288]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.17:992][288]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.18:952][291]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.18:967][291]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-20.16.18:994][291]LogAudioMixer: Error: Audio Platform Device Error: 0x8889000A: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 867)
+[2020.04.03-20.16.19:961][294]LogTemp: Resetting audio stream to device id 
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: Channel Order:
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-20.16.19:975][294]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-21.30.34:374][591]LogTemp: Resetting audio stream to device id 
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: Channel Order:
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-21.30.34:409][591]LogAudioMixer: Display: 1: FrontRight
+[2020.04.04-00.30.41:172][609]LogTemp: Resetting audio stream to device id 
+[2020.04.04-00.30.41:700][609]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: Is Default: Yes
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: Channel Order:
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.04-00.30.41:701][609]LogAudioMixer: Display: 1: FrontRight
+[2020.04.04-00.30.42:182][611]LogHttp: Warning: 000001468F300540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82C712CA-4D99-C00E-6973-FE8A4575B36F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=384080f346e7ddc59b3b58b36c4e7896%7C41b66ee9a71945d28888a0281797e703%7C8eb585da-01c6-4ed1-8f43-5396e05adb89&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.04-00.30.42:182][611]LogHttp: Warning: 000001468F300540: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.04-00.30.42:182][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1464ed57f70 [can pipeline])
+[2020.04.04-00.30.42:182][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 1 (Re-using existing connection! (#241) with host datarouter.ol.epicgames.com)
+[2020.04.04-00.30.42:183][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.22.31.114) port 443 (#241))
+[2020.04.04-00.30.42:183][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.04-00.30.42:183][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.04-00.30.42:183][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.04-00.30.42:183][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.04-00.30.42:183][611]LogHttp: Warning: 000001468F300540: libcurl info message cache 7 (Closing connection 241)
+[2020.04.04-00.30.42:227][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82C712CA-4D99-C00E-6973-FE8A4575B36F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=384080f346e7ddc59b3b58b36c4e7896%7C41b66ee9a71945d28888a0281797e703%7C8eb585da-01c6-4ed1-8f43-5396e05adb89&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.04-17.43.42:859][622]LogTemp: Resetting audio stream to device id 
+[2020.04.04-17.43.44:523][622]LogAudioMixer: Error: Audio Platform Device Error: 0x0: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 374)
+[2020.04.04-17.43.44:784][623]LogTemp: Resetting audio stream to device id 
+[2020.04.04-17.43.45:041][623]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.04-17.43.45:041][623]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.04-17.43.45:041][623]LogAudioMixer: Display: Is Default: Yes
+[2020.04.04-17.43.45:042][623]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.04-17.43.45:042][623]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.04-17.43.45:042][623]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.04-17.43.45:042][623]LogAudioMixer: Display: Channel Order:
+[2020.04.04-17.43.45:042][623]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.04-17.43.45:042][623]LogAudioMixer: Display: 1: FrontRight
+[2020.04.04-17.43.54:061][649]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{66ef81c4-baca-4da2-bcc2-6ea4dddc416b}.
+[2020.04.04-17.43.54:061][649]LogTemp: Resetting audio stream to device id 
+[2020.04.04-17.43.54:303][649]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.04-17.43.54:303][649]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.04-17.43.54:303][649]LogAudioMixer: Display: Is Default: Yes
+[2020.04.04-17.43.54:304][649]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.04-17.43.54:304][649]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.04-17.43.54:304][649]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.04-17.43.54:304][649]LogAudioMixer: Display: Channel Order:
+[2020.04.04-17.43.54:304][649]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.04-17.43.54:304][649]LogAudioMixer: Display: 1: FrontRight
+[2020.04.04-17.53.18:695][598]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.04-17.53.22:666][827]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.04-17.53.24:462][919]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgLesson1.AlgLesson1
+[2020.04.04-17.53.43:045][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.04-17.53.55:480][555]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.04-17.53.56:675][625]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.04-17.53.57:617][681]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.04-17.54.01:347][900]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.04-17.54.02:592][974]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.04-17.54.11:539][485]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.04.04-17.54.11:544][485]LogMetaData: Removing '/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.SKEL_AlgLesson2_C' ref from Metadata '/Game/Algebra/AlgebraLessons/AlgebraLesson2/NewWidgetBlueprint.PackageMetaData'
+[2020.04.04-17.54.11:544][485]LogMetaData: Removing '/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.AlgLesson2_C' ref from Metadata '/Game/Algebra/AlgebraLessons/AlgebraLesson2/NewWidgetBlueprint.PackageMetaData'
+[2020.04.04-17.54.11:544][485]LogMetaData: Removing '/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.AlgLesson2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Algebra/AlgebraLessons/AlgebraLesson2/NewWidgetBlueprint.PackageMetaData'
+[2020.04.04-17.54.11:544][485]LogMetaData: Removing '/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.AlgLesson2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Algebra/AlgebraLessons/AlgebraLesson2/NewWidgetBlueprint.PackageMetaData'
+[2020.04.04-17.54.11:544][485]LogMetaData: Removing '/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.AlgLesson2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Algebra/AlgebraLessons/AlgebraLesson2/NewWidgetBlueprint.PackageMetaData'
+[2020.04.04-17.54.11:603][485]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson2C0B1CD63453E2CA374540F937BDB94F0.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.uasset'
+[2020.04.04-17.54.11:836][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.04-17.54.11:887][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.04.04-17.54.11:928][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.04.04-17.54.11:963][485]AssetCheck: New page: Asset Save: AlgLesson2
+[2020.04.04-17.54.11:963][485]LogContentValidation: Display: Validating WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.AlgLesson2
+[2020.04.04-17.54.12:656][511]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.AlgLesson2
+[2020.04.04-17.54.17:991][791]LogSlate: Took 0.004731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.04-17.54.50:613][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.04.04-17.54.50:614][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.053
+[2020.04.04-17.54.50:616][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2] ([1] browsable assets)...
+[2020.04.04-17.54.50:616][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2]
+[2020.04.04-17.54.50:644][246]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson2_Auto26E84733B42B3ACB6C52D73B4D8C5DF8F.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Autosaves/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2_Auto2.uasset'
+[2020.04.04-17.54.50:645][246]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.04.04-17.57.19:795][830]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson23D6752E9455395ACA5AA9DA2CC4426FC.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.uasset'
+[2020.04.04-17.57.19:817][830]AssetCheck: New page: Asset Save: AlgLesson2
+[2020.04.04-17.57.19:817][830]LogContentValidation: Display: Validating WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2.AlgLesson2
+[2020.04.04-17.57.28:546][337]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-17.57.28:546][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-17.57.28:561][337]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-17.57.28:561][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-17.58.17:368][ 94]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-1.AlgLesson2-1
+[2020.04.04-17.58.23:512][355]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.04-17.58.24:711][426]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.04-17.58.25:912][497]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.04-17.58.27:051][565]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.04-17.58.28:877][671]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgLesson1.AlgLesson1
+[2020.04.04-17.58.32:225][841]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-17.58.32:225][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-17.58.32:228][841]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-17.58.32:228][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-17.58.35:342][ 22]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson1/AlgLesson1-1a.AlgLesson1-1a
+[2020.04.04-18.02.07:275][526]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson2-145B90D93447E23EA2471CF8890CA0518.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-1.uasset'
+[2020.04.04-18.02.07:310][526]AssetCheck: New page: Asset Save: AlgLesson2-1
+[2020.04.04-18.02.07:310][526]LogContentValidation: Display: Validating WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-1.AlgLesson2-1
+[2020.04.04-18.02.08:228][579]BlueprintLog: New page: Compile AlgLesson2-1
+[2020.04.04-18.02.08:458][579]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.04.04-18.02.10:955][720]BlueprintLog: New page: Compile AlgLesson2
+[2020.04.04-18.02.11:007][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.04.04-18.04.51:216][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.04-18.04.51:218][618]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.050
+[2020.04.04-18.04.51:218][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-2] ([1] browsable assets)...
+[2020.04.04-18.04.51:218][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-2]
+[2020.04.04-18.04.51:224][618]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson2-2_Auto3C84DEC3441C5EF51372A938A63DC5C9B.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Autosaves/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-2_Auto3.uasset'
+[2020.04.04-18.04.51:225][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-3] ([1] browsable assets)...
+[2020.04.04-18.04.51:225][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-3]
+[2020.04.04-18.04.51:230][618]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson2-3_Auto3D88C950F435FF0F1473AD19A2404BD8D.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Autosaves/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-3_Auto3.uasset'
+[2020.04.04-18.04.51:232][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-4] ([1] browsable assets)...
+[2020.04.04-18.04.51:232][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-4]
+[2020.04.04-18.04.51:237][618]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/AlgLesson2-4_Auto31F3DB4B34692D55901B87B998F7B43C9.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Autosaves/Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-4_Auto3.uasset'
+[2020.04.04-18.04.51:238][618]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.04.04-18.14.01:168][987]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.04.04-18.14.03:846][147]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.04-18.14.05:051][216]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Algebra/AlgebraLessons/AlgebraLesson2/AlgLesson2-2.AlgLesson2-2
+[2020.04.04-18.15.02:783][118]LogEditorTransaction: Undo Edit Text
+[2020.04.04-18.15.02:791][118]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.04-18.15.02:829][118]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.038 s
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: 
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: 
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: Stack: 
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff961fbc918 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff961480cf0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff961431e1a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff95cff62e7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff95cf21f98 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff95cfaf6d2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff95d044f99 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff950ce9bc3 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff95ba7b33a UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff95ba5a2b9 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c380050 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c17f418 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c17fcfa UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c128d05 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9504d945c UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff95054d9c2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff950515e76 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9504d557b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff950637c49 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff950616e1b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff960061b59 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9628c4d6e UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff961784ecd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9600655f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9614322ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9614573b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff961442d4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9614dea93 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96147ec6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff9600625c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c129ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c1603de UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff961c5568e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff961c43221 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c0f1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c16224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff96c157b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff993a54918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff993a4242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.04-18.15.02:829][118]LogOutputDevice: Error: [Callstack] 0x00007ff993a57195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff993a3ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff9c0b35c0d USER32.dll!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff9c0b35602 USER32.dll!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff993a58699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff6111d6db0 UE4Editor.exe!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff6111ec3ec UE4Editor.exe!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff6111ec4ca UE4Editor.exe!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff6111fceae UE4Editor.exe!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff6111ffcbe UE4Editor.exe!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff9c1597bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: [Callstack] 0x00007ff9c1b2ced1 ntdll.dll!UnknownFunction []
+[2020.04.04-18.15.02:830][118]LogOutputDevice: Error: 
+[2020.04.04-18.15.02:831][118]LogStats:                SubmitErrorReport -  0.000 s
