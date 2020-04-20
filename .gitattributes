@@ -1,0 +1,4 @@
+*.app filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
+Executable/MacNoEditor/Rift.app filter=lfs diff=lfs merge=lfs -text
+Executable/MacNoEditor/Rift.app/Contents/MacOS/Rift filter=lfs diff=lfs merge=lfs -text
