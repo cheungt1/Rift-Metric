@@ -34,5 +34,5 @@ List all the steps on how to run your project
 ## Contributors
 * Richard Hui
 * Z Yang: Troubleshooter, Back-End Developer
-* Martin Cheung: UI Designer, Front-End Developer
+* Martin Cheung: Game Designer, Front-End Developer
 
