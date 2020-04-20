@@ -1,0 +1,1381 @@
+﻿Log file open, 04/20/20 16:06:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Rift
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.107628
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=xReminiscence -epicuserid=41b66ee9a71945d28888a0281797e703 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.20-20.06.53:412][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.20-20.06.53:412][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.20-20.06.53:413][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.20-20.06.53:413][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.20-20.06.53:416][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.20-20.06.53:416][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.20-20.06.53:417][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.20-20.06.53:418][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.20-20.06.53:419][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.20-20.06.53:419][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.20-20.06.53:419][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.20-20.06.53:423][  0]LogHAL: Display: Platform has ~ 16 GB [17078124544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.20-20.06.53:423][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.20-20.06.53:423][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.20-20.06.53:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Scalability.ini]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.20-20.06.53:424][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.20-20.06.53:425][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.20-20.06.53:425][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.20-20.06.53:425][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Config/Windows/Engine.ini]
+[2020.04.20-20.06.53:425][  0]LogInit: Computer: WIT45001318
+[2020.04.20-20.06.53:425][  0]LogInit: User: cheungt1
+[2020.04.20-20.06.53:425][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.20-20.06.53:425][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.20-20.06.53:425][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.20-20.06.53:425][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.20-20.06.53:425][  0]LogMemory: Process Physical Memory: 105.52 MB used, 105.52 MB peak
+[2020.04.20-20.06.53:425][  0]LogMemory: Process Virtual Memory: 101.61 MB used, 101.61 MB peak
+[2020.04.20-20.06.53:425][  0]LogMemory: Physical Memory: 11725.07 MB used,  4561.89 MB free, 16286.97 MB total
+[2020.04.20-20.06.53:425][  0]LogMemory: Virtual Memory: 5159.32 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.04.20-20.06.53:429][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.20-20.06.53:452][  0]LogInit: Using OS detected language (en-US).
+[2020.04.20-20.06.53:452][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.20-20.06.53:452][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.20-20.06.53:717][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.20-20.06.53:811][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.20-20.06.53:811][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.20-20.06.54:057][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.20-20.06.54:057][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.20-20.06.54:057][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.20-20.06.54:057][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.20-20.06.54:089][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.20-20.06.54:089][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.20-20.06.54:179][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2020.04.20-20.06.54:179][  0]LogD3D11RHI:       8089/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2020.04.20-20.06.54:183][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.20-20.06.54:183][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.20-20.06.54:183][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2020.04.20-20.06.54:204][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.20-20.06.54:204][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.20-20.06.54:204][  0]LogWindows: EnumDisplayDevices:
+[2020.04.20-20.06.54:204][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.20-20.06.54:205][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.20-20.06.54:206][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.20-20.06.54:206][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.20-20.06.54:207][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.20-20.06.54:208][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.20-20.06.54:208][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2020.04.20-20.06.54:209][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.20-20.06.54:209][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2020.04.20-20.06.54:209][  0]LogD3D11RHI:   Driver Version: 389.04 (internal:23.21.13.8904, unified:389.04)
+[2020.04.20-20.06.54:209][  0]LogD3D11RHI:      Driver Date: 2-22-2018
+[2020.04.20-20.06.54:209][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2020.04.20-20.06.54:260][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.20-20.06.54:260][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.20-20.06.54:274][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.20-20.06.54:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.20-20.06.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.20-20.06.54:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.20-20.06.54:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.20-20.06.55:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.20-20.06.55:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.20-20.06.55:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.20-20.06.55:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.20-20.06.55:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.20-20.06.55:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.20-20.06.55:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.20-20.06.55:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.20-20.06.55:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.20-20.06.55:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.20-20.06.55:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.20-20.06.55:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.20-20.06.55:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.20-20.06.55:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.20-20.06.55:144][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.20-20.06.55:147][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.20-20.06.55:175][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Intermediate/Shaders/WorkingDirectory/53752/).
+[2020.04.20-20.06.55:176][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cheungt1/AppData/Local/Temp/UnrealShaderWorkingDir/BDB5BD494029C7F98F4B70A4080FF6AF/'.
+[2020.04.20-20.06.55:176][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.20-20.06.55:176][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.20-20.06.55:176][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.20-20.06.56:124][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.20-20.06.56:186][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/cheungt1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.20-20.06.56:186][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cheungt1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.20-20.06.56:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.20-20.06.56:186][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.20-20.06.56:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.20-20.06.56:187][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.20-20.06.56:199][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.20-20.06.56:199][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.20-20.06.56:199][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.20-20.06.56:201][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cheungt1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.20-20.06.56:201][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.20-20.06.56:201][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.20-20.06.56:232][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.20-20.06.56:236][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.20-20.06.56:237][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.20-20.06.56:308][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2020.04.20-20.06.56:677][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.20-20.06.56:857][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.20-20.06.56:857][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.20-20.06.56:857][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.20-20.06.56:857][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.20-20.06.56:857][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.20-20.06.56:878][  0]LogNetVersion: Rift 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 255957800)
+[2020.04.20-20.06.58:267][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041251 seconds
+[2020.04.20-20.06.58:275][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.20-20.06.58:275][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.20-20.06.58:276][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.20-20.06.58:732][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.20-20.06.58:735][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.20-20.06.58:789][  0]SourceControl: Source control is disabled
+[2020.04.20-20.06.58:789][  0]SourceControl: Source control is disabled
+[2020.04.20-20.06.58:790][  0]SourceControl: Source control is disabled
+[2020.04.20-20.06.58:791][  0]SourceControl: Source control is disabled
+[2020.04.20-20.06.58:792][  0]SourceControl: Source control is disabled
+[2020.04.20-20.06.58:883][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.20-20.06.58:894][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.20-20.06.58:894][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.20-20.06.58:994][  0]LogOcInput: OculusInput pre-init called
+[2020.04.20-20.06.59:003][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.20-20.06.59:004][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.20-20.06.59:081][  0]LogEngine: Initializing Engine...
+[2020.04.20-20.06.59:082][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.20-20.06.59:084][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.20-20.06.59:443][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.20-20.06.59:449][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.20-20.06.59:550][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.20-20.06.59:550][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.20-20.06.59:550][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.20-20.06.59:550][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.20-20.06.59:550][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.20-20.06.59:550][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.20-20.06.59:550][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.20-20.06.59:550][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.20-20.06.59:551][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.20-20.06.59:551][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.20-20.06.59:581][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.20-20.06.59:581][  0]LogAudioMixer: Display: Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.20-20.06.59:581][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.20-20.06.59:582][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.20-20.06.59:582][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.20-20.06.59:582][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.20-20.06.59:582][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.20-20.06.59:582][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.20-20.06.59:582][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.20-20.06.59:638][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.04.20-20.06.59:647][  0]LogInit: FAudioDevice initialized.
+[2020.04.20-20.06.59:648][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.20-20.06.59:730][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/cheungt1/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.20-20.06.59:731][  0]LogInit: Texture streaming: Enabled
+[2020.04.20-20.06.59:764][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.20-20.06.59:764][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.20-20.06.59:783][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.20-20.06.59:884][  0]LogInit: Transaction tracking system initialized
+[2020.04.20-20.06.59:894][  0]BlueprintLog: New page: Editor Load
+[2020.04.20-20.06.59:925][  0]LocalizationService: Localization service is disabled
+[2020.04.20-20.07.00:242][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Content/' took 0.00s
+[2020.04.20-20.07.00:242][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.20-20.07.00:242][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.20-20.07.01:016][  0]SourceControl: Source control is disabled
+[2020.04.20-20.07.01:016][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.20-20.07.01:016][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.04.20-20.07.01:017][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.20-20.07.01:017][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.26ms to complete.
+[2020.04.20-20.07.01:017][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.001
+[2020.04.20-20.07.01:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-20.07.01:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-20.07.01:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-20.07.01:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.20-20.07.01:297][  0]LogCollectionManager: Loaded 0 collections in 0.003106 seconds
+[2020.04.20-20.07.01:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Collections/' took 0.00s
+[2020.04.20-20.07.01:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Developers/cheungt1/Collections/' took 0.00s
+[2020.04.20-20.07.01:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Collections/' took 0.00s
+[2020.04.20-20.07.01:314][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 3015 classes and 717 folders.
+[2020.04.20-20.07.01:319][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.20-20.07.01:402][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.20-20.07.01:406][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.04.20-20.07.01:496][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.20-20.07.01:496][  0]LogLoad: (Engine Initialization) Total time: 9.87 seconds
+[2020.04.20-20.07.01:496][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.20-20.07.01:572][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.20-20.07.01:575][  0]LogSlate: Took 0.001063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.20-20.07.01:579][  0]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.20-20.07.01:591][  0]LogSlate: Took 0.001893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.20-20.07.01:795][  1]LogRenderer: Reallocating scene render targets to support 832x400 Format 10 NumSamples 1 (Frame:1).
+[2020.04.20-20.07.02:042][  2]LogAssetRegistry: Asset discovery search completed in 5.7361 seconds
+[2020.04.20-20.07.02:052][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2020.04.20-20.07.02:590][ 30]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.20-20.07.04:595][167]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Location-Main_Menu/Main_Menu_Revised.Main_Menu_Revised
+[2020.04.20-20.07.04:890][167]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.20-20.07.06:327][167]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.20-20.07.08:232][274]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.20-20.07.12:412][471]LogSlate: Window 'Main_Menu_Revised' being destroyed
+[2020.04.20-20.07.12:440][471]LogSlate: Window 'Main_Menu_Revised' being destroyed
+[2020.04.20-20.07.12:443][471]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.07.12:444][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.07.12:453][471]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.07.12:453][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.07.13:635][564]LogRenderer: Reallocating scene render targets to support 1276x600 Format 10 NumSamples 1 (Frame:472).
+[2020.04.20-20.07.17:600][833]LogContentBrowser: Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2020.04.20-20.07.21:779][175]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/Shop/ShopMenu.ShopMenu
+[2020.04.20-20.07.26:135][470]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Location-Shop_Menu/Shop_Menu_Revised.Shop_Menu_Revised
+[2020.04.20-20.07.38:712][954]LogSlate: Window 'Shop_Menu_Revised' being destroyed
+[2020.04.20-20.08.00:072][689]LogSlate: Took 0.002060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.20-20.08.29:867][837]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.20-20.08.32:039][899]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_Menu_Revised4CFA83134D6E23EFC5BF42B37F3738D2.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_Menu_Revised.uasset'
+[2020.04.20-20.08.32:114][899]AssetCheck: New page: Asset Save: Shop_Menu_Revised
+[2020.04.20-20.08.32:115][899]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_Menu_Revised.Shop_Menu_Revised
+[2020.04.20-20.08.38:418][119]BlueprintLog: New page: Compile Shop_Menu_Revised
+[2020.04.20-20.08.38:579][119]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.04.20-20.08.52:356][634]BlueprintLog: New page: Compile Shop_Menu_Revised
+[2020.04.20-20.08.52:368][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:368][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:368][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:369][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:369][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:369][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:369][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:369][634]LogBlueprint: Warning: [Compiler Shop_Menu_Revised] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.08.52:454][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.20-20.08.53:575][658]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_Menu_Revised6F5B7BBE4999C551A4A9EE9C0FF22EAD.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_Menu_Revised.uasset'
+[2020.04.20-20.08.53:961][658]AssetCheck: New page: Asset Save: Shop_Menu_Revised
+[2020.04.20-20.08.53:961][658]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_Menu_Revised.Shop_Menu_Revised
+[2020.04.20-20.09.23:883][978]LogSlate: Window 'Shop_Menu_Revised' being destroyed
+[2020.04.20-20.09.25:361][ 52]LogSlate: Window 'Shop_Menu_Revised' being destroyed
+[2020.04.20-20.09.25:367][ 52]LogSlate: Window 'Shop_Menu_Revised' being destroyed
+[2020.04.20-20.09.25:371][ 52]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.09.25:371][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.09.25:390][ 52]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.09.25:390][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.09.25:444][ 52]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.09.25:445][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.09.25:448][ 52]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.09.25:448][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.09.29:088][403]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.20-20.09.30:039][403]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.20-20.09.30:094][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap7" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Maps/NewMap7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.20-20.09.30:149][403]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.04.20-20.09.30:158][403]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/NewMap76497C1CB49287E0E00763FA06B5974A6.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Maps/NewMap7.umap'
+[2020.04.20-20.09.30:201][403]LogFileHelpers: Saving map 'NewMap7' took 0.147
+[2020.04.20-20.09.30:210][403]AssetCheck: New page: Asset Save: NewMap7
+[2020.04.20-20.09.30:211][403]LogContentValidation: Display: Validating World /Game/Maps/NewMap7.NewMap7
+[2020.04.20-20.09.40:663][203]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Location-Shop_Menu/Shop_Menu_Revised.Shop_Menu_Revised
+[2020.04.20-20.09.41:918][240]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.09.47:999][632]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/Shop/ShopMenu.ShopMenu
+[2020.04.20-20.10.07:216][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.10.07:234][378]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_231E81D234FFBD7CDCFAEF1BC4181BAF9.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.10.07:262][378]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.10.07:262][378]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.10.17:589][703]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.10.17:589][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.10.17:606][703]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.20-20.10.17:607][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.20-20.10.54:745][347]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2 from UserWidget to Menu_C...
+[2020.04.20-20.10.54:765][347]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.10.54:770][347]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "playerProfile" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get playerProfile
+[2020.04.20-20.10.54:771][347]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "playerProfile" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get playerProfile
+[2020.04.20-20.10.54:771][347]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "playerProfile" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get playerProfile
+[2020.04.20-20.10.54:771][347]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "selected" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get selected
+[2020.04.20-20.10.54:771][347]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "playerProfile" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get playerProfile
+[2020.04.20-20.10.54:771][347]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "playerProfile" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Set playerProfile
+[2020.04.20-20.10.54:771][347]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "selected" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get selected
+[2020.04.20-20.10.54:772][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Enable Buttons . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:772][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Enable Buttons . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:772][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:772][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:772][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "enableButtons" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Enable Buttons
+[2020.04.20-20.10.54:772][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Enable Buttons . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:772][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "enableButtons" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Enable Buttons
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Enable Buttons . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "enableButtons" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Enable Buttons
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Enable Buttons . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "enableButtons" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Enable Buttons
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:773][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "showArmourTab" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Show Armour Tab
+[2020.04.20-20.10.54:774][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:774][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:774][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "showAllTab" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Show All Tab
+[2020.04.20-20.10.54:774][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:774][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:774][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "showAllTab" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Show All Tab
+[2020.04.20-20.10.54:774][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:775][347]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.10.54:775][347]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "showWeaponTab" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Show Weapon Tab
+[2020.04.20-20.10.54:783][347]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] Cannot override '::setTitle' at  Set Title  which was declared in a parent with a different signature
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Selected  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Player Profile  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Player Profile  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Selected  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] Failed to generate a term for the  Struct Ref  pin; was it a struct reference that was left unset?
+[2020.04.20-20.10.54:784][347]LogBlueprint: Error: [Compiler Shop_2] Failed to generate a term for the  Struct Ref  pin; was it a struct reference that was left unset?
+[2020.04.20-20.10.54:785][347]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Player Profile  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.10.54:785][347]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Player Profile  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.10.54:785][347]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Player Profile  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.10.55:280][347]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2020.04.20-20.11.27:069][741]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.20-20.12.11:414][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.12.11:511][572]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_29537C23E4F861B41054C7AB57C26E8D9.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.12.11:535][572]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.12.11:535][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.12.27:629][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.12.27:740][106]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2FAF91537436676A7B471DD9B4DD74E11.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.12.27:780][106]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.12.27:780][106]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.12.59:978][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.13.00:101][515]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_289526769471B1C163BB22B8B055DF8A3.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.13.00:127][515]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.13.00:127][515]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.13.39:114][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.13.39:213][222]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_21E574F614A3CA51185A28C994ACE548D.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.13.39:238][222]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.13.39:238][222]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.14.20:368][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.14.20:474][916]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2671C1D64450C5E49766732A38D61102B.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.14.20:936][916]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.14.20:936][916]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.14.45:483][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.14.45:599][927]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_21D666E1F4F10E132B7A86BA00D07D4EC.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.14.45:631][927]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.14.45:631][927]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.15.24:611][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.15.24:797][475]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2FD8AAF1E4831864A9BE74D84145F7CC5.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.15.24:826][475]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.15.24:826][475]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.17.48:708][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.17.48:835][588]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_23B38127A495494343F6D65907A77250D.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.17.48:860][588]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.17.48:860][588]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.17.54:802][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.17.54:930][821]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2713F87BA43B7003827FD90A5AA70073E.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.17.54:962][821]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.17.54:962][821]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.18.24:313][972]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.04.20-20.18.27:318][ 78]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.20-20.18.27:333][ 78]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.20-20.18.42:733][603]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.04.20-20.18.45:164][709]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.20-20.18.45:180][709]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.20-20.18.54:626][ 46]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:638][ 46]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.18.54:639][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:639][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:639][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:639][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:639][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:640][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:640][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:640][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:640][ 46]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.18.54:641][ 46]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "TitleText" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get TitleText
+[2020.04.20-20.18.54:643][ 46]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.18.54:643][ 46]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.18.54:645][ 46]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.18.54:645][ 46]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.18.54:648][ 46]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.18.54:648][ 46]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.18.54:657][ 46]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.18.54:657][ 46]LogBlueprint: Error: [Compiler Shop_2] Cannot override '::setTitle' at  Set Title  which was declared in a parent with a different signature
+[2020.04.20-20.18.54:659][ 46]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Title Text  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.18.54:659][ 46]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.18.54:659][ 46]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.18.54:659][ 46]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.18.54:659][ 46]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.18.54:985][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.04.20-20.18.55:739][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.18.55:868][ 74]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2BF304DF4493A3EB6B822B48D39EF1038.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.18.55:899][ 74]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.18.55:899][ 74]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.19.23:958][177]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.19.23:970][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:970][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:972][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:973][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:973][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:973][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:973][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:973][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:973][177]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.19.23:974][177]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "TitleText" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get TitleText
+[2020.04.20-20.19.23:975][177]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.23:976][177]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.23:977][177]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.23:977][177]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.23:979][177]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.23:980][177]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.19.23:987][177]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.19.23:989][177]LogBlueprint: Error: [Compiler Shop_2] The property associated with  Title Text  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.23:989][177]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.23:989][177]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.23:989][177]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.23:989][177]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.24:310][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.20-20.19.24:923][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.19.25:082][197]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2FE1A6F6C416DD621911D0795A934769A.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.19.25:118][197]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.19.25:118][197]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.19.45:773][947]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:784][947]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:785][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:786][947]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.19.45:788][947]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.45:788][947]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.45:790][947]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.45:790][947]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.19.45:792][947]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.19.45:792][947]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.19.45:800][947]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.19.45:802][947]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.45:802][947]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.45:802][947]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.45:802][947]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.19.46:087][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.04.20-20.19.46:664][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.19.46:802][964]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2885CDDCE4FDAB20A49DF63991E33C2D0.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.19.46:831][964]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.19.46:831][964]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.21.35:007][451]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.21.35:019][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.21.35:020][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:021][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:021][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:021][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:021][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:021][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:022][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:022][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:023][451]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.21.35:025][451]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.21.35:025][451]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.21.35:027][451]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.21.35:027][451]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.21.35:029][451]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.21.35:029][451]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.21.35:037][451]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.21.35:038][451]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.21.35:038][451]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.21.35:038][451]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.21.35:038][451]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.21.35:352][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.04.20-20.21.36:187][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.21.36:332][483]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_29D6E63114438F0C8531F14897D0C47CA.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.21.36:378][483]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.21.36:379][483]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.21.49:674][ 57]LogBlueprint: Error: [Compiler ] Internal Compiler Error: Tried to create a property list in scope getItemsByType, but another object (ArrayProperty list) already exists there.
+[2020.04.20-20.21.55:422][252]LogSlate: Window 'Delete Variable' being destroyed
+[2020.04.20-20.22.09:635][863]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.22.09:648][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:648][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:648][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:648][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:648][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:649][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:650][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:650][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:650][863]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.22.09:653][863]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.22.09:653][863]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.22.09:655][863]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.09:655][863]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.22.09:664][863]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.22.09:665][863]LogBlueprint: Error: [Compiler Shop_2] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.20-20.22.09:665][863]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.22.09:665][863]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.22.09:922][863]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.20-20.22.10:498][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.22.10:624][877]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_22C4871F24F71260F68B567868AE598FE.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.22.10:659][877]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.22.10:659][877]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.22.20:282][237]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.22.20:295][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:295][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:295][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:295][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:295][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:295][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:295][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:296][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:297][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:297][237]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.22.20:301][237]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.22.20:301][237]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.22.20:303][237]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.20:303][237]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.22.20:314][237]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.22.20:315][237]LogBlueprint: Error: [Compiler Shop_2] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.20-20.22.20:315][237]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.22.20:315][237]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.22.20:560][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.04.20-20.22.58:234][732]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:246][732]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:247][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:248][732]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.22.58:253][732]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.22.58:254][732]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.22.58:256][732]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.22.58:256][732]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.22.58:266][732]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.22.58:267][732]LogBlueprint: Error: [Compiler Shop_2] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.20-20.22.58:268][732]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.22.58:268][732]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.22.58:516][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.04.20-20.22.59:090][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.22.59:223][750]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_29F4D871747494718526A8295E326A171.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.22.59:251][750]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.22.59:251][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.23.40:837][442]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.23.40:847][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:847][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:847][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:847][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:847][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:847][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:847][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:848][442]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.23.40:848][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:848][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:848][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:848][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:848][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:848][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:849][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:849][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:849][442]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.23.40:854][442]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.23.40:854][442]LogBlueprint: Warning: [Compiler Shop_2] Could not find a variable named "list" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get list
+[2020.04.20-20.23.40:855][442]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.23.40:855][442]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.23.40:863][442]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.23.40:865][442]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.23.40:865][442]LogBlueprint: Error: [Compiler Shop_2] The property associated with  List  could not be found in '/Game/Location-Shop_Menu/Shop_2.Shop_2_C'
+[2020.04.20-20.23.41:118][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.04.20-20.23.42:321][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.23.42:467][484]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2C4B1312945D1A916EF4611955C8A2079.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.23.42:497][484]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.23.42:497][484]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.24.09:118][496]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.24.09:129][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:129][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:129][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:130][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:131][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:131][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:131][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:131][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:131][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:132][496]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.24.09:140][496]LogBlueprint: Error: [Compiler Shop_2] In use pin  Item Array  no longer exists on node  Get All Items . Please refresh node or break links to remove pin.
+[2020.04.20-20.24.09:140][496]LogBlueprint: Error: [Compiler Shop_2] Could not find a function named "getAllItems" in 'Shop_2_C'.
+Make sure 'Shop_2_C' has been compiled for  Get All Items
+[2020.04.20-20.24.09:150][496]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.24.09:493][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.04.20-20.24.10:476][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.24.10:604][539]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2EA9FAB9B4B3FCE03F33957B5A51A1EC5.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.24.10:630][539]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.24.10:630][539]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.25.15:072][ 48]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.15:083][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:084][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:084][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:084][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:084][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:084][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:084][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:084][ 48]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.15:085][ 48]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.25.15:097][ 48]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.25.15:381][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.20-20.25.16:033][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.25.16:157][ 68]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_21EADA7A7499A5B94A221CCA68DB0380C.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.25.16:191][ 68]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.25.16:191][ 68]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.25.29:627][538]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.25.29:637][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:637][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:638][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:639][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:639][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:639][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:639][538]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.29:639][538]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.25.29:653][538]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.25.29:998][538]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2020.04.20-20.25.30:898][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.25.31:030][568]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2707E37A74295EC5CE3241F8587CEB06A.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.25.31:055][568]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.25.31:055][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.25.51:559][262]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.25.51:571][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:571][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:571][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:571][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:572][262]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.25.51:573][262]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.25.51:586][262]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.25.51:837][262]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.04.20-20.25.52:246][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.25.52:388][275]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_2D695BBD342855125E50E4CAC138421DE.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.25.52:414][275]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.25.52:414][275]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.26.11:844][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Location-Shop_Menu/Shop_2" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset" SILENT=true
+[2020.04.20-20.26.12:147][962]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_20D4DFC21497CF82AF758909497C08C65.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Location-Shop_Menu/Shop_2.uasset'
+[2020.04.20-20.26.12:193][962]AssetCheck: New page: Asset Save: Shop_2
+[2020.04.20-20.26.12:193][962]LogContentValidation: Display: Validating WidgetBlueprint /Game/Location-Shop_Menu/Shop_2.Shop_2
+[2020.04.20-20.26.12:614][969]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.26.12:626][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:626][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:626][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:626][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:626][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:626][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:627][969]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.12:628][969]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.26.12:644][969]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.26.12:931][969]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.04.20-20.26.22:751][295]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.26.22:763][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.26.22:764][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:765][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:765][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:765][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:765][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:765][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:765][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:766][295]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.26.22:766][295]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.26.22:780][295]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.26.23:042][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.04.20-20.27.02:258][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.04.20-20.27.02:260][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap7' took 0.046
+[2020.04.20-20.27.02:261][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Location-Shop_Menu/Shop_Menu_Revised] ([1] browsable assets)...
+[2020.04.20-20.27.02:261][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Location-Shop_Menu/Shop_Menu_Revised]
+[2020.04.20-20.27.02:404][961]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Shop_Menu_Revised_Auto1519499194FBB78549EE9609B114A6521.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/Autosaves/Game/Location-Shop_Menu/Shop_Menu_Revised_Auto1.uasset'
+[2020.04.20-20.27.02:405][961]LogFileHelpers: Auto-saving content packages took 0.144
+[2020.04.20-20.27.16:274][328]LogSlate: Window 'Shop_2' being destroyed
+[2020.04.20-20.27.21:914][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap7" FILE="../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Maps/NewMap7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.20-20.27.21:965][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.20-20.27.22:013][517]LogSavePackage: Moving '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Saved/NewMap7F94585364E015088BD93D98AD4BA9177.tmp' to '../../../../../../Users/cheungt1/Documents/GitHub/software-engineer-project/Content/Maps/NewMap7.umap'
+[2020.04.20-20.27.22:080][517]AssetCheck: New page: Asset Save: NewMap7
+[2020.04.20-20.27.22:080][517]LogContentValidation: Display: Validating World /Game/Maps/NewMap7.NewMap7
+[2020.04.20-20.27.35:363][161]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.27.35:374][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:374][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:374][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:374][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:374][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:374][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:374][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:375][161]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.35:376][161]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.27.35:393][161]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.27.35:663][161]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.04.20-20.27.38:105][242]BlueprintLog: New page: Compile Shop_2
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Weapon  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable All  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:117][242]LogBlueprint: Warning: [Compiler Shop_2] Input pin  Enable Armour  specifying non-default value no longer exists on node  Enable Buttons . Please refresh node or reset pin to default value to remove pin.
+[2020.04.20-20.27.38:118][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:118][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Armour Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:118][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:118][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:118][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:118][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show All Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:118][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:119][242]LogBlueprint: Error: [Compiler Shop_2] In use pin  <Unnamed>  no longer exists on node  Show Weapon Tab . Please refresh node or break links to remove pin.
+[2020.04.20-20.27.38:119][242]LogBlueprint: Error: [Compiler Shop_2] The function name in node  Set Title  is already used
+[2020.04.20-20.27.38:135][242]LogBlueprint: Error: [Compiler Shop_2] Cannot order parameters newTitle in function setTitle.
+[2020.04.20-20.27.38:194][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.04.20-20.28.17:884][163]LogBlueprint: Warning: FMemberReference::ResolveMember (TitleText) bSelfContext == true, but no scope supplied!
+[2020.04.20-20.28.17:884][163]LogBlueprint: Warning: FMemberReference::ResolveMember (TitleText) bSelfContext == true, but no scope supplied!
+[2020.04.20-20.28.17:900][164]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.20-20.28.17:901][164]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.04.20-20.28.21:329][164]LogWindows: Error: === Critical error: ===
+[2020.04.20-20.28.21:329][164]LogWindows: Error: 
+[2020.04.20-20.28.21:329][164]LogWindows: Error: Assertion failed: Result [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp] [Line: 2102] 
+[2020.04.20-20.28.21:329][164]LogWindows: Error: FBlueprintEditorUtils::FindBlueprintForNodeChecked(/Game/Location-Shop_Menu/Shop_2.setTitle:K2Node_FunctionEntry_0) failed to find a Blueprint.
+[2020.04.20-20.28.21:329][164]LogWindows: Error: 
+[2020.04.20-20.28.21:329][164]LogWindows: Error: 
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff9bf8da859 KERNELBASE.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff9870aa7b6 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff9870adc58 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff986e62c7d UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff986defd43 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff986df20c0 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff95a7710c5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff959f059ab UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96c0fd836 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96c0a9148 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff9684626a6 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96846238f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96872dc7c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96872c2fa UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff9687084ef UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff968722c07 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff968723696 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96c3df1df UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96c40a32e UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff96c406c43 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c3759f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff975b028f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c36042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c3617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:329][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff975b05574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff975b05574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff975b05574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c36042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c3617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff975b028f4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c36042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c3617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:330][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff975b05574 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c36042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c3617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c38646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c3617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c36042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c35810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c37c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c38757 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983ba0681 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff983c38a42 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff9758f036c UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff9758f07ca UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff97591f5a4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff975943de2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff975943316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff7d4dd901f UE4Editor.exe!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff7d4dec3ec UE4Editor.exe!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff7d4dec4ca UE4Editor.exe!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff7d4dfceae UE4Editor.exe!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff7d4dffcbe UE4Editor.exe!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff9c1597bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: [Callstack] 0x00007ff9c1b2ced1 ntdll.dll!UnknownFunction []
+[2020.04.20-20.28.21:331][164]LogWindows: Error: 
+[2020.04.20-20.28.21:355][164]LogExit: Executing StaticShutdownAfterError
+[2020.04.20-20.28.21:360][164]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.04.20-20.28.21:360][164]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.04.20-20.28.21:374][164]Log file closed, 04/20/20 16:28:21
