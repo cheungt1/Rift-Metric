@@ -46,7 +46,7 @@ Simply follow the instruction below to start playing Rift Metrics!
 4. Start playing!
 
 ## Demo video
-[link] here
+[Rift Metrics Demo](https://youtu.be/w2J9y_vpjqM)
 
 ## Contributors
 * Richard Hui: Team Lead
