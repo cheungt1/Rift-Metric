@@ -15,6 +15,7 @@ An educational game with the aim of providing supplementary learning materials f
 * Select problem
 * View about
 * Return
+* ViewGear
 * Change gear
 * Create game
 * Load game
